@@ -42,16 +42,13 @@ body {
 } 
 
 #cvSection {
-    padding-bottom: 10px;
     padding-top: 10px;
-    background-color: red;
-    border-top: medium;
-    border-top-color: white;
-    border-top-width: 10px;
+    background-color: rgb(202, 202, 202);
+    margin-bottom: 30px;
 } 
 
 #contactSection {
-    border-bottom-color: white;
     padding-top: 10px;
-    background-color: blue;
+    background-color: rgb(202, 202, 202);
+    margin-bottom: 30px;
 } 
