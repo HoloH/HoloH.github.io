@@ -2,11 +2,13 @@ h1 {
     color: rgb(87, 85, 85);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+    height: 200px; 
 }
 
 h2 {
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100x;
 }
 
 h3 {
