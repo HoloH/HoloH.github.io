@@ -51,7 +51,7 @@ body {
 } 
 
 #contactSection {
+    border-bottom-color: white;
     padding-top: 10px;
     background-color: blue;
-    border-bottom-color: white;
 } 
