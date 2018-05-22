@@ -45,11 +45,12 @@ body {
     padding-bottom: 10px;
     padding-top: 10px;
     background-color: red;
+    border-top: medium;
+    border-top-color: white;
 } 
 
 #contactSection {
     padding-top: 10px;
     background-color: blue;
-    border-bottom-width: 30%;
     border-bottom-color: white;
 } 
