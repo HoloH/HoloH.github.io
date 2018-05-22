@@ -20,5 +20,9 @@ h4 {
 }
 
 body {
+    background-color: white;
+}
+
+.container {
     background-color: rgb(202, 202, 202);
 }
