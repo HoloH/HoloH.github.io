@@ -47,6 +47,7 @@ body {
     background-color: red;
     border-top: medium;
     border-top-color: white;
+    border-top-width: 10px;
 } 
 
 #contactSection {
