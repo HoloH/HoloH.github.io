@@ -44,3 +44,15 @@ body {
     padding-bottom: 15px;
     padding-top: 5px;
 } 
+
+#cvSection {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: red;
+} 
+
+#contactSection {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: blue;
+} 
