@@ -11,8 +11,9 @@ h1 {
 h2 {
     color: black;
     font-family: Helvetica, Arial, sans-serif;
-    font-weigth: bold;
+    font-weight: bold;
     height: 50x;
+    text-transform: uppercase;
 }
 
 h3 {
