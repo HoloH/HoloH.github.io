@@ -1,12 +1,12 @@
 h1 {
     color: rgb(5, 150, 142);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     text-transform: uppercase;
     padding-top: 30px;
     padding-bottom: 30px; 
     padding-left: 20px;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 h2 {
