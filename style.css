@@ -1,6 +1,6 @@
 h1 {
     color: rgb(5, 150, 142);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: normal;
     padding-top: 30px;
     padding-bottom: 30px; 
@@ -11,13 +11,13 @@ h1 {
 h2 {
     color: black;
     font-family: 'Courier New', Courier, monospace;
-    font-weigth:bold;
+    font-weigth: bold;
     height: 50x;
 }
 
 h3 {
     color: rgb(87, 85, 85);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
 }
 
 h4 {
