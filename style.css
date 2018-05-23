@@ -46,6 +46,13 @@ body{
 	font-family: arial;
 }
 
+.button h2 {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    height: 50x;
+    text-transform: uppercase;
+}
 
 .sec2 {
 	padding: 0px;
