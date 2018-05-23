@@ -9,3 +9,9 @@
     scrollTo( $("#cvSection"));
 } */
 
+
+$(".button").click(function(){
+    $('html, body').animate({
+        scrollTop: $("#cvSection").offset().top
+    }, 2000);
+});

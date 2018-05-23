@@ -40,6 +40,13 @@ body{
     font-family: Helvetica, Arial, sans-serif; 
 }
 
+.button {
+    padding: 150px 0px 0px 0px;
+	transform: skew(0deg, 10deg);
+	font-family: arial;
+}
+
+
 .sec2 {
 	padding: 0px;
 	color: #fff;
