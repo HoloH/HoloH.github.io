@@ -74,12 +74,12 @@ body{
 .sec2 h4 {
     color: black;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 20px;
 }
 
 .sec2 h5 {
     color: rgb(66, 65, 65);
     font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
 }
 
 .sec2 p {
