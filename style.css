@@ -1,29 +1,29 @@
 body{
-    margin: 0;
-	padding: 0;
-	background: #262626;
+    margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background: #ff9c07;
 }
 
 .slewedBox {
-	background: #edff57;
-	padding: 100px 0;
+	background: white;
+	padding: 10px 0;
     transform: skew(0deg, -10deg) translateY(-190px);
 }
 
 .topContainer {
-	padding: 150px 200px;
+	padding: 150px 0px 0px 0px;
 	transform: skew(0deg, 10deg);
 	font-family: arial;
 }
 
 .topContainer h1 {
-    color: rgb(5, 150, 142);
+    color: rgb(58, 59, 59);
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     text-transform: uppercase;
     padding-top: 30px;
-    padding-bottom: 30px; 
-    padding-left: 20px;
+    padding-bottom: 10px; 
+    padding-left: 10px;
     font-size: 60px;
 }
 
@@ -44,11 +44,11 @@ body{
 	padding: 0 200px 150px;
 	color: #fff;
 	font-family: arial;
-	text-align: right;
+	text-align: left;
 }
 
 .sec2 h1 {
-    color: rgb(5, 150, 142);
+    color: rgb(58, 59, 59);
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     text-transform: uppercase;
@@ -62,7 +62,7 @@ body{
     color: black;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
-    height: 50x;
+    height: 50px;
     text-transform: uppercase;
 }
 
@@ -96,5 +96,5 @@ body{
 #contactSection {
     padding-top: 10px;
     background-color: rgb(202, 202, 202);
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 } 
