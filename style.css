@@ -7,7 +7,7 @@ body{
 .box1{
     background:#2D3E50;
     padding:100px 0px;
-    transform:skew(0deg, -10deg) translateY(-120px);	
+    transform:skew(0deg, -10deg) translateY(-5px);	
     font-family:Arial, Helvetica, sans-serif;
   }
   .container{
