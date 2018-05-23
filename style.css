@@ -45,6 +45,8 @@ body{
 	transform: skew(0deg, 0deg);
     font-family: arial;
     text-align: center;
+    border: 5px;
+    border-color: black;
 }
 
 .button:hover {
