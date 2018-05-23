@@ -49,6 +49,10 @@ body{
     border-color: black;
 }
 
+.button h2 {
+    display: inline;
+}
+
 .button:hover {
     transform: scale(1.5);
 }
