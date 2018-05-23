@@ -17,7 +17,20 @@ body{
         @include transform(skew(0deg, 10deg));
         text-align: center;
         
-        h1 {
+
+         
+        .title{
+            padding-top: 100px;
+            font-weight: normal;
+        }
+        
+        .text{
+            width:60%;
+            margin: 25px auto;      
+            color: lighten($main-color, 55);
+        }
+      
+        /* h1 {
             color: rgb(5, 150, 142);
             font-family: Helvetica, Arial, sans-serif;
             font-weight: normal;
@@ -67,7 +80,7 @@ body{
             padding-top: 10px;
             background-color: rgb(202, 202, 202);
             margin-bottom: 30px;
-        } 
+        }  */
 
     }
  }
