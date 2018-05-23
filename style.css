@@ -42,7 +42,7 @@ body{
 
 .button {
     padding: 0px 0px 0px 0px;
-	transform: skew(0deg, 10deg);
+	transform: skew(0deg, 0deg);
     font-family: arial;
     text-align: center;
 }
