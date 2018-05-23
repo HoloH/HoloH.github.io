@@ -1,4 +1,4 @@
-$(function) {
+/* $(function) {
 
     function scrollTo(target){
         if(target.lenght){
@@ -7,4 +7,5 @@ $(function) {
     }
 
     scrollTo( $("#cvSection"));
-}
+} */
+
