@@ -92,6 +92,8 @@ body{
     font-weight: normal;
     height: 50px;
     text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
     text-overflow: ellipsis;
 }
 
