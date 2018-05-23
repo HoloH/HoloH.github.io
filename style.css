@@ -92,7 +92,7 @@ body{
     font-weight: normal;
     height: 50px;
     text-transform: uppercase;
-    overflow-wrap: break-word;
+    text-overflow: ellipsis;
 }
 
 .sec2 h3 {
