@@ -98,3 +98,8 @@ body{
     padding-top: 10px;
     margin-bottom: 0px;
 } 
+
+.img-thumbnail {
+    border: 10px 10px 10px 10px;
+    border-color: black;
+}
