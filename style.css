@@ -139,7 +139,7 @@ hr.hoLine {
     border: 0px 0px 0px 0px;
 }
 
-a:link {
+#mailLink {
     color: #d66801;
     text-decoration-color: #d66801;
 }
