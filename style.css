@@ -1,10 +1,21 @@
 body{
-     color: #FFF;
+    margin:0px;
+    padding:0px;
+    background:#1BBC9B;
 }
 
+.box1{
+    background:#2D3E50;
+    padding:100px 0px;
+    transform:skew(0deg, -10deg) translateY(-120px);	
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .container{
+     padding:150px 200px;	
+     transform:skew(0deg, 10deg);	
+  }
 
-
-h1 {
+.container h1 {
     color: rgb(5, 150, 142);
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
@@ -15,7 +26,7 @@ h1 {
     font-size: 60px;
 }
 
-h2 {
+.container h2 {
     color: black;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
@@ -23,34 +34,34 @@ h2 {
     text-transform: uppercase;
 }
 
-h3 {
+.container h3 {
     color: rgb(87, 85, 85);
     font-family: Helvetica, Arial, sans-serif;
 }
 
-h4 {
+.container h4 {
     color: black;
     font-family: Helvetica, Arial, sans-serif;
 }
 
-p {
+.container p {
     color: rgb(87, 85, 85);
     font-family: Helvetica, Arial, sans-serif; 
 }
 
-.row {
+.container.row {
     padding-bottom: 15px;
     padding-top: 5px;
 } 
 
-#cvSection {
+.container #cvSection {
     padding-top: 10px;
     background-color: rgb(202, 202, 202);
     margin-bottom: 30px;
 } 
 
 
-#contactSection {
+.container #contactSection {
     padding-top: 10px;
     background-color: rgb(202, 202, 202);
     margin-bottom: 30px;
