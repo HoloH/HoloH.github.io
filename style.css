@@ -150,3 +150,7 @@ hr.hoLine {
     color: #d66801;
     text-decoration-color: #d66801;
 }
+
+#languageSection h4 {
+    overflow-wrap: break-word;
+}
