@@ -41,9 +41,10 @@ body{
 }
 
 .button {
-    padding: 150px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 	transform: skew(0deg, 10deg);
-	font-family: arial;
+    font-family: arial;
+    text-align: center;
 }
 
 .button h2 {
