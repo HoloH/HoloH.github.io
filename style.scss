@@ -7,13 +7,13 @@ body{
   color: #FFF;
 }
 
-.skewed-bg{
+#skewed-bg{
   background: $main-color;
   padding: 200px 0;
   @include transform(skew(0deg, -10deg));
   margin-top: -200px;  
   
-    .content{
+    #content{
         @include transform(skew(0deg, 10deg));
         text-align: center;
         
