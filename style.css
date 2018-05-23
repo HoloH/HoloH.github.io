@@ -38,7 +38,8 @@ body{
 
 .topContainer p {
     color: rgb(87, 85, 85);
-    font-family: Helvetica, Arial, sans-serif; 
+    font-family: Helvetica, Arial, sans-serif;
+    overflow-wrap: break-word; 
 }
 
 .button {
