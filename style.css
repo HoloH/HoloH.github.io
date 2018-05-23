@@ -102,4 +102,5 @@ body{
 .img-thumbnail {
     border: 10px 10px 10px 10px;
     border-color: black;
+    background-color: black;
 }
