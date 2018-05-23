@@ -49,14 +49,6 @@ body{
     border-color: black;
 }
 
-.button h2 {
-    border: 2px solid green;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-}
-
 .button:hover {
     transform: scale(1.5);
 }
