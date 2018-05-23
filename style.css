@@ -110,3 +110,7 @@ body{
     border-color: black;
     background-color: black;
 }
+
+hr.hoLine {
+    border-top: 1px solid #646363;
+}
