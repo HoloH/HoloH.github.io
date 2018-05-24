@@ -42,10 +42,6 @@ body{
     overflow-wrap: break-word; 
 }
 
-.topContainer.row {
-    padding-bottom: 0px;
-}
-
 .button {
     padding: 0px 0px 0px 0px;
 	transform: skew(0deg, 0deg);
@@ -138,7 +134,11 @@ body{
 #contactSection {
     padding-top: 10px;
     margin-bottom: 0px;
-} 
+}
+
+#contactSection .row {
+    padding-bottom: 0px;
+}
 
 .img-thumbnail {
     border: 10px 10px 10px 10px;
