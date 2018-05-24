@@ -42,6 +42,10 @@ body{
     overflow-wrap: break-word; 
 }
 
+.topContainer.row {
+    padding-bottom: 0px;
+}
+
 .button {
     padding: 0px 0px 0px 0px;
 	transform: skew(0deg, 0deg);
