@@ -21,7 +21,7 @@ body{
     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     text-transform: uppercase;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 10px; 
     padding-left: 10px;
     font-size: 60px;
@@ -69,7 +69,7 @@ body{
 }
 
 .sec2 {
-	padding: 50px;
+	padding: 120px;
 	color: #fff;
 	font-family: arial;
 	text-align: left;
@@ -140,10 +140,20 @@ body{
     padding-bottom: 0px;
 }
 
+.contactIcons {
+    height: 40px;
+    size: 40px;
+}
+
 .contactIcons a{
     color: #d66801;
     text-decoration-color: #d66801;
     height: 15px;
+    padding-right:20px;
+}
+
+.contactIcons a:hover{
+    color:rgb(58, 59, 59);
 }
 
 .img-thumbnail {
@@ -159,11 +169,23 @@ hr.hoLine {
     border: 0px 0px 0px 0px;
 }
 
-#mailLink {
-    color: #d66801;
-    text-decoration-color: #d66801;
-}
 
 #languageSection h4 {
     overflow-wrap: break-word;
+}
+
+.footer {
+    background-color: rgb(58, 59, 59);
+    padding-top: 15px;
+    text-align: center;
+}
+
+.footerItems a{
+    color: #d66801;
+    text-decoration-color: #d66801;
+    padding-right:20px;
+}
+
+.footerItems a:hover{
+    color:whitesmoke;
 }
