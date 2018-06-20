@@ -140,6 +140,12 @@ body{
     padding-bottom: 0px;
 }
 
+.contactIcons a{
+    color: #d66801;
+    text-decoration-color: #d66801;
+    height: 15px;
+}
+
 .img-thumbnail {
     border: 10px 10px 10px 10px;
     border-color: black;
